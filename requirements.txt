@@ -5,3 +5,5 @@ python-dotenv
 langchain_community
 pypdf
 faiss-cpu
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
